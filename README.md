@@ -13,7 +13,7 @@
 </div>
 <br>
 
-## 📈 My Statistics
+## Statistics
 <div>
   <img height="150rem" src="https://streak-stats.demolab.com/?user=welton-rodrigo&theme=github-dark-blue" />
   <img height="152rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=welton-rodrigo&layout=compact&langs_count=16&theme=github_dark" />
@@ -21,7 +21,7 @@
 
 <br>
 
-## 🦹🏽‍♂️ My Skills
+## Skills
 <div>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="spring" />
